@@ -1,6 +1,7 @@
 {
   "name": "tabs-react",
   "version": "0.1.0",
+  "homepage": "https://andriibozhko1.github.io/tabs-react/",
   "private": true,
   "dependencies": {
     "node-sass": "^4.11.0",
